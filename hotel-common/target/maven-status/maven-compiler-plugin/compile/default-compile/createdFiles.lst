@@ -1,0 +1,14 @@
+com\hotel\common\enums\HotelStatus.class
+com\hotel\common\config\JacksonConfig.class
+com\hotel\common\result\ResultCode.class
+com\hotel\common\exception\GlobalExceptionHandler.class
+com\hotel\common\utils\JwtUtils.class
+com\hotel\common\interceptor\AuthInterceptor.class
+com\hotel\common\exception\BusinessException.class
+com\hotel\common\enums\PaymentStatus.class
+com\hotel\common\config\WebMvcConfig.class
+com\hotel\common\constants\AppConstants.class
+com\hotel\common\enums\OrderStatus.class
+com\hotel\common\result\Result.class
+com\hotel\common\enums\RoomStatus.class
+com\hotel\common\utils\SpringContextUtils.class
